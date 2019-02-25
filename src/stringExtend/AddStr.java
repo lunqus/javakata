@@ -1,8 +1,9 @@
 package stringExtend;
 
-public class addStr {
+public class AddStr {
 
     String add(String string) {
+
         return string;
     }
 

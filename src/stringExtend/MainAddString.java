@@ -4,12 +4,11 @@ public class MainAddString {
 
     public static void main(String[] args) {
 
-        addStr addStr = new addStr();
+        AddStr addStr = new AddStr();
 
         System.out.println(addStr.add("Volare, Volare"));
 
-        StringBuilder gonon = new StringBuilder();
-        gonon.append()
+        StringBuilder goon = new StringBuilder();
 
     }
 }
